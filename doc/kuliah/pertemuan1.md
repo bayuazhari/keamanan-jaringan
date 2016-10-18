@@ -9,7 +9,7 @@ OSI (Open System Interconnection) adalah konsep ideal bagaimana interkoneksi jar
 Protokol yang kebanyakan digunakan sekarang adalah TCP/IP. Arsitektur TCP/IP tidaklah berbasis layer referensi tujuh lapis OSI, tetapi TCP/IP mengimplemenasikan arsitektur berlapis yang terdiri atas empat lapis.
 
 <p align ="center">
-<img src="../../img/osilayer.jpg" width="400px">
+<img src="../../img/osilayer.jpeg" width="400px">
 </p>
 
 ## Fungsi 7 Layer OSI :
