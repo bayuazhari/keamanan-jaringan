@@ -20,18 +20,22 @@ Jadi, vulnerability adalah sistem yang dimana terdapat kelemahan sehingga bisa d
 Buat praktikum mudah-mudahan buat pertemuan selanjutnya praktikumnya dijelaskan lebih jelas lagi.
 
 Nama : Bayu Rahmad Azhari
+
 NPM : 1144125
+
 Kelas : 3C
+
 Prodi : D4 Teknik Informatika
+
 Kampus : Politeknik Pos Indonesia
 
 Link Matakuliah : http://kampus.awangga.net/assignments/keamananjaringan2016
 
 Referensi : 
-• http://www.tembolok.id/pengertian-vulnerability-contoh-dan-pencegahan/
-• http://smallnote123.blogspot.co.id/2013/06/pengertian-arp-poisoning.html
+* http://www.tembolok.id/pengertian-vulnerability-contoh-dan-pencegahan/
+* http://smallnote123.blogspot.co.id/2013/06/pengertian-arp-poisoning.html
 
 Scan Plagiarisme :
-• https://drive.google.com/open?id=0B5FSMUsdCMU4YTR5WGxOOEkyZ2M 
-• https://drive.google.com/open?id=0B5FSMUsdCMU4bVpvSUdVcG1JNWc
+* https://drive.google.com/open?id=0B5FSMUsdCMU4YTR5WGxOOEkyZ2M 
+* https://drive.google.com/open?id=0B5FSMUsdCMU4bVpvSUdVcG1JNWc
 
