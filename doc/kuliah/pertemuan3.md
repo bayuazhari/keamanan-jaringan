@@ -5,6 +5,7 @@
 
 ## Anatomi Hacking
 Anatomi hacking merupakan tahapan yang berurutan yang dilakukan dalam proses hacking. Terdapat 5 tahapan dalam anatomi hacking :
+
 1. Reconnaissance
 Reconnaissance adalah tahap pengumpulan data target untuk mendapatkan informasi yang sebanyak-banyaknya dan mendapatkan celah untuk menyerang target.
 
