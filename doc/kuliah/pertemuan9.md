@@ -22,7 +22,7 @@ Network Intrusion Detection System (NIDS) ditempatkan pada titik strategis atau 
 ## Intrusion Prevention System (IPS)
 Intrusion Prevention System (IPS) adalah sistem yang memonitor jaringan dari kegiatan berbahaya seperti ancaman keamanan atau pelanggaran kebijakan. Fungsi utama dari IPS adalah untuk mengidentifikasi aktivitas yang mencurigakan, dan kemudian membuat log informasi, mencoba untuk memblokir aktivitas, dan melaporkan aktivitas tersebut. IPS juga bisa disebut IDS yang memiliki kemampuan firewall.
 
-## Cara Instalasi Snort Pada CentOS
+## Cara Instalasi Snort Pada PFSense
 Langkah pertama jalankan pfSense pada virtualbox.
 <p align ="center">
 <img src="../../img/snort-pfsense-1.PNG" width="600px">
